@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+streamlit>=1.63,<2
+httpx>=0.28,<1
+altair
+pandas
+requests
+python-multipart
+pillow
+opencv-python-headless
+numpy
+reportlab
+tensorflow==2.21.0
+groq
+python-dotenv

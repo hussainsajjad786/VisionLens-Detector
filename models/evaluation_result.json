@@ -1,0 +1,54 @@
+{
+  "evaluated_at": "2026-09-15T07:47:42.145741+00:00",
+  "sample_size": 75,
+  "samples_per_class_requested": 25,
+  "accuracy": 0.8933333333333333,
+  "macro_f1": 0.894309470871134,
+  "mean_confidence": 0.9268202781677246,
+  "classes": [
+    "Normal",
+    "Immature",
+    "Mature"
+  ],
+  "confusion_matrix": [
+    [
+      22,
+      1,
+      2
+    ],
+    [
+      0,
+      20,
+      5
+    ],
+    [
+      0,
+      0,
+      25
+    ]
+  ],
+  "per_class": [
+    {
+      "class": "Normal",
+      "precision": 1.0,
+      "recall": 0.88,
+      "f1": 0.9361702127659575,
+      "support": 25
+    },
+    {
+      "class": "Immature",
+      "precision": 0.9523809523809523,
+      "recall": 0.8,
+      "f1": 0.8695652173913043,
+      "support": 25
+    },
+    {
+      "class": "Mature",
+      "precision": 0.78125,
+      "recall": 1.0,
+      "f1": 0.8771929824561403,
+      "support": 25
+    }
+  ],
+  "notice": "This is a reproducible internal dataset sample evaluation. It is not external clinical validation and should not be presented as clinical performance."
+}

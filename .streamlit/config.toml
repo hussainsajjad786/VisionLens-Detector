@@ -1,0 +1,24 @@
+[theme]
+base = "light"
+primaryColor = "#0E8B88"
+backgroundColor = "#F4F9FC"
+secondaryBackgroundColor = "#EAF4F7"
+textColor = "#17324D"
+borderColor = "#D8E7EF"
+greenColor = "#16A34A"
+yellowColor = "#EAB308"
+yellowTextColor = "#715500"
+yellowBackgroundColor = "#FEF9C3"
+orangeColor = "#B96B17"
+redColor = "#DC2626"
+blueColor = "#176C80"
+chartCategoricalColors = ["#0E8B88", "#4F86A8", "#B96B17"]
+baseRadius = "medium"
+buttonRadius = "medium"
+showWidgetBorder = true
+font = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap"
+baseFontSize = 15
+headingFontSizes = ["32px", "24px", "20px", "16px", "14px", "12px"]
+headingFontWeights = [700, 650, 650, 600, 550, 500]
+linkUnderline = false
